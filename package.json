@@ -1,0 +1,8 @@
+{
+  "name": "community-garden-architecture-plan",
+  "version": "1.0.0",
+  "description": "Architecture planning for Community Garden Manager",
+  "scripts": {
+    "start": "echo \"Documentation Project\""
+  }
+}
